@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Restaurants Review</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Restaurant Reviews</string>
+    <string name="nav_header_subtitle">Welcome username!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="add_new_restaurant">Add Restaurant</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Favourites</string>
+    <string name="menu_slideshow">My Reviews</string>
+    <string name="fav_message">Your Favourite Restaurants Will Be Displayed Here Soon ...</string>
+    <string name="home_message">A List Of All Restaurants Will Be Shown Here Soon ...</string>
+    <string name="review_message">All Your Reviewed Restaurants Will Be Shown Here Soon ...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="details_for_a_restaurant">Details For A Restaurant</string>
+    <string name="restaurant_location">Restaurant Location</string>
+    <string name="enter_your_review_here">Enter your review here...</string>
+    <string name="add_review">Add Review</string>
+    <string name="add_to_favourite">Add to Favourite</string>
+    <string name="arusha_tanzania">Arusha, Tanzania</string>
+    <string name="machweo_restaurant">Machweo Restaurant</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="restaurant_review_text">Restaurant Review text....</string>
+    <string name="restaurant_reviewed">Restaurant Name</string>
+    <string name="rating">Rating</string>
+</resources>
