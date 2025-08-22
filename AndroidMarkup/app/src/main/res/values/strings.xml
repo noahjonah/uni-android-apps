@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Markup</string>
+    <string name="webView_text">WebView</string>
+    <string name="credentials_txt">Credentials</string>
+    <string name="continue_btn">Continue</string>
+    <string name="check_markup_image">Check markup image</string>
+    <string name="android_markup_txt">Android Markup</string>
+    <string name="username_txt">Username</string>
+    <string name="password_txt_hint">Password</string>
+    <string name="remember_me_check">Remember Me</string>
+    <string name="submit_btn_txt">Submit</string>
+</resources>
